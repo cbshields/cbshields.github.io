@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: CLI Project
 header-img: img/home-bg.png
 email: caroline.shields@amkor.com
 copyright_name: cbshields
 description: > # this means to ignore newlines until "baseurl:"
-  
+  What a learning experience!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cbshields

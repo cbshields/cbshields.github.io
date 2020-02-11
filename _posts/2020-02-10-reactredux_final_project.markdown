@@ -1,4 +1,9 @@
-layout: post title: "React Redux Final Project" date: 2018-11-08 permalink: react_redux_final_project
+---
+layout: post
+title:      "React Redux Final Project"
+date:       2020-02-10
+permalink:  reactredux_project
+---
 
 As the addage goes: "If I only then, what I know now...," I would have not put off doing my final project for so long. I was at first DREADING
 even starting this project because of all the problems/frustrations I had with the other projects. But I finally sat myself down and told myself

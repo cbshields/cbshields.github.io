@@ -5,7 +5,7 @@ date:       2020-02-10
 permalink:  reactredux_project
 ---
 
-As the addage goes: "If I only then, what I know now...," I would have not put off doing my final project for so long. I was at first DREADING
+As the addage goes: "If I only knew then what I know now...," I would have not put off doing my final project for so long. I was at first DREADING
 even starting this project because of all the problems/frustrations I had with the other projects. But I finally sat myself down and told myself
 that you were going to get this finished. And I have to say, it was probably one of the easier projects I had done. I kept it very simple and 
 watched the React/Redux final project videos and was able to get it done in two weeks. If I were to do this all over again, I think I would separate

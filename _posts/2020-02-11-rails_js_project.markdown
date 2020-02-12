@@ -1,14 +1,15 @@
 ---
 layout: post
 title:      "Rails JS Project"
-date:       2020-02-12 04:25:17 +0000
+date:       2020-02-11 23:25:18 -0500
 permalink:  rails_js_project
 ---
 
 
 At first when I sat down to start coding, to say I was overwhelmed was an understatement. I mean, I couldn't even get the javascript to load. If this was going to be any indication on what the rest of my project was going to be like, I wanted no parts of it. Which I think caused most of my delays in starting this. But I finally stopped procrastinating and thank goodness I went to the Office hours for JS Rails. Brad helped me get my javascript working and worked with me to get my js project code actually started. These videos also helped me alot:
 
-Overall Project: https://www.youtube.com/watch?time_continue=497&v=b93S2_Hc8z8 Form Submission: https://www.youtube.com/watch?v=Yd0nH9CWWfo&amp=&feature=youtu.be
+Overall Project: https://www.youtube.com/watch?time_continue=497&v=b93S2_Hc8z8 
+Form Submission: https://www.youtube.com/watch?v=Yd0nH9CWWfo&amp=&feature=youtu.be
 
 Most of my time was spent trying to figure out how the code worked (ie: use .map instead of forEach). I was also getting too focused on all the associations instead of just doing the requirements. One of the consistent things about my journey becoming a programmer - I make the projects/code more complex than it needs to be.
 
